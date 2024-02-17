@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Hotel Mary",
+    "rooms": 5,
+    "available": 5
+  },
+  {
+    "id": 2,
+    "name": "Marriot",
+    "rooms": 35,
+    "available": 35
+  }
+]
